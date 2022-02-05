@@ -1,2 +1,7 @@
+[Anti-OnSum Blocklist]
+! Title: Anti-OnSum Blocklist
+! Last Update : 20220204
+! Credit : 愛囡囡協會會長@Lihkg https://lih.kg/2722904
 ﻿||firebaseinstallations.googleapis.com^
-||*gov.hk*
+||*leavehomesafe.gov.hk*
+||*regqr.gov.hk*
