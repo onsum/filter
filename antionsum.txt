@@ -1,7 +1,7 @@
 [Anti-OnSum Blocklist]
 ! Title: Anti-OnSum Blocklist
 ! Description: Block9安心domain
-! Last modified: 2022-02-04T00:21:40.518Z
+! Last modified: 2022-02-11T04:01:00.000Z
 ! Credit : 愛囡囡協會會長@Lihkg https://lih.kg/2722904
 ﻿||firebaseinstallations.googleapis.com^
 ||*leavehomesafe.gov.hk*
